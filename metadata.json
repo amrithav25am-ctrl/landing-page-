@@ -1,0 +1,6 @@
+{
+  "name": "AURA SWISS | Calibre 10 Precision Horology",
+  "description": "An animated, conversion-focused landing page for AURA SWISS luxury timepieces featuring interactive exploded watch assembly, mechanical clock cursor, and craftsmanship showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
